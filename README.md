@@ -18,7 +18,7 @@ Kaggle-Garbage Classification
   
   - Validation loss
   <img width="739" alt="스크린샷 2021-01-31 오후 9 07 33" src="https://user-images.githubusercontent.com/54826050/106384619-29974a80-640f-11eb-8987-4c29a2cdc94d.png">
-  #### Terribly big loss
+  *Terribly big loss*
   
   
 ## 2. Smaller Model
@@ -34,7 +34,7 @@ Kaggle-Garbage Classification
 
   - Validation loss
   <img width="715" alt="스크린샷 2021-01-31 오후 9 33 46" src="https://user-images.githubusercontent.com/54826050/106384779-f3a69600-640f-11eb-9a79-ed2e03181bcf.png">
-  #### Much better loss, but lower Acc. 
+  *Much better loss, but lower Acc*
 
 
 ## 3. Small but Stronger Model
