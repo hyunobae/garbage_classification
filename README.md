@@ -1,6 +1,7 @@
 # garbage_classification
-Kaggle-Garbage Classification
+Kaggle-Garbage Classification running on Google colab
 [Link](https://www.kaggle.com/asdasdasasdas/garbage-classification, "Kaggle link")
+
 
 ## Preprocessing
    Convert from image to numpy array and label the classes
